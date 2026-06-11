@@ -1,1 +1,2 @@
-# About-me
+-👋 Hi,my name is Sirojiddin 
+-📖 Nowadays i'm learning Flutter framework
